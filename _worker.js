@@ -1939,7 +1939,7 @@ async function subHtml(request, hostLength = 0, FileName, subProtocol, subConver
                         <path fill="currentColor" fill-rule="evenodd" d="M7.976 0A7.977 7.977 0 0 0 0 7.976c0 3.522 2.3 6.507 5.431 7.584c.392.049.538-.196.538-.392v-1.37c-2.201.49-2.69-1.076-2.69-1.076c-.343-.93-.881-1.175-.881-1.175c-.734-.489.048-.489.048-.489c.783.049 1.224.832 1.224.832c.734 1.223 1.859.88 2.3.685c.048-.538.293-.88.489-1.076c-1.762-.196-3.621-.881-3.621-3.964c0-.88.293-1.566.832-2.153c-.05-.147-.343-.978.098-2.055c0 0 .685-.196 2.201.832c.636-.196 1.322-.245 2.007-.245s1.37.098 2.006.245c1.517-1.027 2.202-.832 2.202-.832c.44 1.077.146 1.908.097 2.104a3.16 3.16 0 0 1 .832 2.153c0 3.083-1.86 3.719-3.62 3.915c.293.244.538.733.538 1.467v2.202c0 .196.146.44.538.392A7.98 7.98 0 0 0 16 7.976C15.951 3.572 12.38 0 7.976 0" clip-rule="evenodd"></path>
                     </svg>
                 </a>
-                <a href="https://t.me/CMLiussss" target="_blank" class="social-link" title="CMLiussss 技术交流群">
+                <a href="https://t.me/zyssadmin" target="_blank" class="social-link" title="天诚技术交流群">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
                         <defs>
                             <linearGradient id="telegramGradient1" x1="50%" x2="50%" y1="0%" y2="100%">
@@ -1951,7 +1951,7 @@ async function subHtml(request, hostLength = 0, FileName, subProtocol, subConver
                         <path fill="#FFF" d="M57.94 126.648q55.98-24.384 74.64-32.152c35.56-14.786 42.94-17.354 47.76-17.441c1.06-.017 3.42.245 4.96 1.49c1.28 1.05 1.64 2.47 1.82 3.467c.16.996.38 3.266.2 5.038c-1.92 20.24-10.26 69.356-14.5 92.026c-1.78 9.592-5.32 12.808-8.74 13.122c-7.44.684-13.08-4.912-20.28-9.63c-11.26-7.386-17.62-11.982-28.56-19.188c-12.64-8.328-4.44-12.906 2.76-20.386c1.88-1.958 34.64-31.748 35.26-34.45c.08-.338.16-1.598-.6-2.262c-.74-.666-1.84-.438-2.64-.258c-1.14.256-19.12 12.152-54 35.686c-5.1 3.508-9.72 5.218-13.88 5.128c-4.56-.098-13.36-2.584-19.9-4.708c-8-2.606-14.38-3.984-13.82-8.41c.28-2.304 3.46-4.662 9.52-7.072"></path>
                     </svg>
                 </a>
-                <a href="https://t.me/bestip_one" target="_blank" class="social-link" title="白嫖哥交流群">
+                <a href="https://t.me/CMLiussss" target="_blank" class="social-link" title="CMLiussss 技术交流群">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
                         <defs>
                             <linearGradient id="telegramGradient2" x1="50%" x2="50%" y1="0%" y2="100%">
@@ -1964,7 +1964,7 @@ async function subHtml(request, hostLength = 0, FileName, subProtocol, subConver
                     </svg>
                 </a>
             </div>
-            <h1>🚀 ${FileName}</h1>
+            <h1>☯️ ${FileName}部署面板</h1>
             <p>Cloudflare Snippets 订阅生成器</p>
         </div>
         
@@ -2071,7 +2071,7 @@ async function subHtml(request, hostLength = 0, FileName, subProtocol, subConver
                             <!-- Snippets 选项卡内容 -->
                             <div class="tab-panel" id="snippets-panel">
                                 <p style="color: #e2e8f0; margin-bottom: 15px; line-height: 1.6;">
-                                    1️⃣ 进入 规则(Rules) > Snippets → 2️⃣ 创建片段 → 3️⃣ 粘贴下方代码并部署 <br>→ 4️⃣ 片段规则 主机名 > 等于 > 自定义域名 <br>→ 5️⃣ 创建新代理DNS记录 > CNAME > 自定义域 > <strong><span onclick="copyToClipboard('cf.090227.xyz')" style="cursor: pointer; color: #00ff9d; text-decoration: underline;">cf.090227.xyz</span></strong>
+                                    1️⃣ 进入 规则(Rules) > Snippets → 2️⃣ 创建片段 → 3️⃣ 粘贴下方代码并部署 <br>→ 4️⃣ 片段规则 主机名 > 等于 > 自定义域名 <br>→ 5️⃣ 创建新代理DNS记录 > CNAME > 自定义域 > <strong><span onclick="copyToClipboard('cf.090227.xyz')" style="cursor: pointer; color: #00ff9d; text-decoration: underline;">cf.090227.xyz</span></strong> (双向解析域名)<br>→ 6️⃣ 创建新代理DNS记录 > A记录 > 自定义域 > 192.0.2.1 (正常域名)
                                 </p>
                                 
                                 <!-- 源码选择器 -->
@@ -2387,7 +2387,7 @@ async function subHtml(request, hostLength = 0, FileName, subProtocol, subConver
         </div>
         
         <div class="footer">
-            <p>© 2025 BPSUB - Powered by Cloudflare Snippets | 感谢白嫖哥提供维护的 - <a href="https://t.me/v2rayByCf" target="_blank" class="thanks-link" title="访问Snipaste节点分享频道">🔗 Snipaste节点</a></p>
+            <p>© 2025 BPSUB - Powered by Cloudflare Snipaste | 天诚订阅器联合出品 - <a href="https://getsub.classelivre.eu.org/sub" target="_blank" class="thanks-link" title="访问Snipaste节点分享频道">🔗 免费公益节点</a></p>
         </div>
     </div>
     
